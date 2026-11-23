@@ -1,0 +1,133 @@
+path,city,locality,lat,lon,source,split
+bengaluru_central_silk_board_train_01.jpg,Bengaluru,Central Silk Board,12.9176,77.6238,OSV-5M_Sample,train
+bengaluru_central_silk_board_train_02.jpg,Bengaluru,Central Silk Board,12.9176,77.6238,OSV-5M_Sample,train
+bengaluru_central_silk_board_train_03.jpg,Bengaluru,Central Silk Board,12.9176,77.6238,OSV-5M_Sample,train
+bengaluru_central_silk_board_train_04.jpg,Bengaluru,Central Silk Board,12.9176,77.6238,OSV-5M_Sample,train
+bengaluru_central_silk_board_val_01.jpg,Bengaluru,Central Silk Board,12.9176,77.6238,OSV-5M_Sample,val
+bengaluru_central_silk_board_test_01.jpg,Bengaluru,Central Silk Board,12.9176,77.6238,OSV-5M_Sample,test
+bengaluru_hebbal_flyover_train_01.jpg,Bengaluru,Hebbal Flyover,13.0358,77.597,Mapillary_Sample,train
+bengaluru_hebbal_flyover_train_02.jpg,Bengaluru,Hebbal Flyover,13.0358,77.597,Mapillary_Sample,train
+bengaluru_hebbal_flyover_train_03.jpg,Bengaluru,Hebbal Flyover,13.0358,77.597,Mapillary_Sample,train
+bengaluru_hebbal_flyover_train_04.jpg,Bengaluru,Hebbal Flyover,13.0358,77.597,Mapillary_Sample,train
+bengaluru_hebbal_flyover_val_01.jpg,Bengaluru,Hebbal Flyover,13.0358,77.597,Mapillary_Sample,val
+bengaluru_hebbal_flyover_test_01.jpg,Bengaluru,Hebbal Flyover,13.0358,77.597,Mapillary_Sample,test
+bengaluru_electronic_city_toll_train_01.jpg,Bengaluru,Electronic City Toll,12.8452,77.6602,OSV-5M_Sample,train
+bengaluru_electronic_city_toll_train_02.jpg,Bengaluru,Electronic City Toll,12.8452,77.6602,OSV-5M_Sample,train
+bengaluru_electronic_city_toll_train_03.jpg,Bengaluru,Electronic City Toll,12.8452,77.6602,OSV-5M_Sample,train
+bengaluru_electronic_city_toll_train_04.jpg,Bengaluru,Electronic City Toll,12.8452,77.6602,OSV-5M_Sample,train
+bengaluru_electronic_city_toll_val_01.jpg,Bengaluru,Electronic City Toll,12.8452,77.6602,OSV-5M_Sample,val
+bengaluru_electronic_city_toll_test_01.jpg,Bengaluru,Electronic City Toll,12.8452,77.6602,OSV-5M_Sample,test
+bengaluru_kr_puram_hanging_bridge_train_01.jpg,Bengaluru,KR Puram Hanging Bridge,12.9986,77.6744,Mapillary_Sample,train
+bengaluru_kr_puram_hanging_bridge_train_02.jpg,Bengaluru,KR Puram Hanging Bridge,12.9986,77.6744,Mapillary_Sample,train
+bengaluru_kr_puram_hanging_bridge_train_03.jpg,Bengaluru,KR Puram Hanging Bridge,12.9986,77.6744,Mapillary_Sample,train
+bengaluru_kr_puram_hanging_bridge_train_04.jpg,Bengaluru,KR Puram Hanging Bridge,12.9986,77.6744,Mapillary_Sample,train
+bengaluru_kr_puram_hanging_bridge_val_01.jpg,Bengaluru,KR Puram Hanging Bridge,12.9986,77.6744,Mapillary_Sample,val
+bengaluru_kr_puram_hanging_bridge_test_01.jpg,Bengaluru,KR Puram Hanging Bridge,12.9986,77.6744,Mapillary_Sample,test
+bengaluru_mg_road_metro_station_train_01.jpg,Bengaluru,MG Road Metro Station,12.9752,77.6041,Mapillary_Sample,train
+bengaluru_mg_road_metro_station_train_02.jpg,Bengaluru,MG Road Metro Station,12.9752,77.6041,Mapillary_Sample,train
+bengaluru_mg_road_metro_station_train_03.jpg,Bengaluru,MG Road Metro Station,12.9752,77.6041,Mapillary_Sample,train
+bengaluru_mg_road_metro_station_train_04.jpg,Bengaluru,MG Road Metro Station,12.9752,77.6041,Mapillary_Sample,train
+bengaluru_mg_road_metro_station_val_01.jpg,Bengaluru,MG Road Metro Station,12.9752,77.6041,Mapillary_Sample,val
+bengaluru_mg_road_metro_station_test_01.jpg,Bengaluru,MG Road Metro Station,12.9752,77.6041,Mapillary_Sample,test
+bengaluru_marathahalli_bridge_train_01.jpg,Bengaluru,Marathahalli Bridge,12.9554,77.7011,OSV-5M_Sample,train
+bengaluru_marathahalli_bridge_train_02.jpg,Bengaluru,Marathahalli Bridge,12.9554,77.7011,OSV-5M_Sample,train
+bengaluru_marathahalli_bridge_train_03.jpg,Bengaluru,Marathahalli Bridge,12.9554,77.7011,OSV-5M_Sample,train
+bengaluru_marathahalli_bridge_train_04.jpg,Bengaluru,Marathahalli Bridge,12.9554,77.7011,OSV-5M_Sample,train
+bengaluru_marathahalli_bridge_val_01.jpg,Bengaluru,Marathahalli Bridge,12.9554,77.7011,OSV-5M_Sample,val
+bengaluru_marathahalli_bridge_test_01.jpg,Bengaluru,Marathahalli Bridge,12.9554,77.7011,OSV-5M_Sample,test
+bengaluru_goraguntepalya_junction_train_01.jpg,Bengaluru,Goraguntepalya Junction,13.0285,77.5408,Mapillary_Sample,train
+bengaluru_goraguntepalya_junction_train_02.jpg,Bengaluru,Goraguntepalya Junction,13.0285,77.5408,Mapillary_Sample,train
+bengaluru_goraguntepalya_junction_train_03.jpg,Bengaluru,Goraguntepalya Junction,13.0285,77.5408,Mapillary_Sample,train
+bengaluru_goraguntepalya_junction_train_04.jpg,Bengaluru,Goraguntepalya Junction,13.0285,77.5408,Mapillary_Sample,train
+bengaluru_goraguntepalya_junction_val_01.jpg,Bengaluru,Goraguntepalya Junction,13.0285,77.5408,Mapillary_Sample,val
+bengaluru_goraguntepalya_junction_test_01.jpg,Bengaluru,Goraguntepalya Junction,13.0285,77.5408,Mapillary_Sample,test
+bengaluru_whitefield_itpl_train_01.jpg,Bengaluru,Whitefield ITPL,12.9842,77.7516,OSV-5M_Sample,train
+bengaluru_whitefield_itpl_train_02.jpg,Bengaluru,Whitefield ITPL,12.9842,77.7516,OSV-5M_Sample,train
+bengaluru_whitefield_itpl_train_03.jpg,Bengaluru,Whitefield ITPL,12.9842,77.7516,OSV-5M_Sample,train
+bengaluru_whitefield_itpl_train_04.jpg,Bengaluru,Whitefield ITPL,12.9842,77.7516,OSV-5M_Sample,train
+bengaluru_whitefield_itpl_val_01.jpg,Bengaluru,Whitefield ITPL,12.9842,77.7516,OSV-5M_Sample,val
+bengaluru_whitefield_itpl_test_01.jpg,Bengaluru,Whitefield ITPL,12.9842,77.7516,OSV-5M_Sample,test
+mumbai_bandra-worli_sea_link_train_01.jpg,Mumbai,Bandra-Worli Sea Link,19.033,72.815,OSV-5M_Sample,train
+mumbai_bandra-worli_sea_link_train_02.jpg,Mumbai,Bandra-Worli Sea Link,19.033,72.815,OSV-5M_Sample,train
+mumbai_bandra-worli_sea_link_train_03.jpg,Mumbai,Bandra-Worli Sea Link,19.033,72.815,OSV-5M_Sample,train
+mumbai_bandra-worli_sea_link_train_04.jpg,Mumbai,Bandra-Worli Sea Link,19.033,72.815,OSV-5M_Sample,train
+mumbai_bandra-worli_sea_link_val_01.jpg,Mumbai,Bandra-Worli Sea Link,19.033,72.815,OSV-5M_Sample,val
+mumbai_bandra-worli_sea_link_test_01.jpg,Mumbai,Bandra-Worli Sea Link,19.033,72.815,OSV-5M_Sample,test
+mumbai_western_express_highway_andheri_train_01.jpg,Mumbai,Western Express Highway Andheri,19.1197,72.8524,Mapillary_Sample,train
+mumbai_western_express_highway_andheri_train_02.jpg,Mumbai,Western Express Highway Andheri,19.1197,72.8524,Mapillary_Sample,train
+mumbai_western_express_highway_andheri_train_03.jpg,Mumbai,Western Express Highway Andheri,19.1197,72.8524,Mapillary_Sample,train
+mumbai_western_express_highway_andheri_train_04.jpg,Mumbai,Western Express Highway Andheri,19.1197,72.8524,Mapillary_Sample,train
+mumbai_western_express_highway_andheri_val_01.jpg,Mumbai,Western Express Highway Andheri,19.1197,72.8524,Mapillary_Sample,val
+mumbai_western_express_highway_andheri_test_01.jpg,Mumbai,Western Express Highway Andheri,19.1197,72.8524,Mapillary_Sample,test
+mumbai_marine_drive_promenade_train_01.jpg,Mumbai,Marine Drive Promenade,18.9432,72.823,OSV-5M_Sample,train
+mumbai_marine_drive_promenade_train_02.jpg,Mumbai,Marine Drive Promenade,18.9432,72.823,OSV-5M_Sample,train
+mumbai_marine_drive_promenade_train_03.jpg,Mumbai,Marine Drive Promenade,18.9432,72.823,OSV-5M_Sample,train
+mumbai_marine_drive_promenade_train_04.jpg,Mumbai,Marine Drive Promenade,18.9432,72.823,OSV-5M_Sample,train
+mumbai_marine_drive_promenade_val_01.jpg,Mumbai,Marine Drive Promenade,18.9432,72.823,OSV-5M_Sample,val
+mumbai_marine_drive_promenade_test_01.jpg,Mumbai,Marine Drive Promenade,18.9432,72.823,OSV-5M_Sample,test
+delhi_aiims_ring_road_flyover_train_01.jpg,Delhi,AIIMS Ring Road Flyover,28.5672,77.21,Mapillary_Sample,train
+delhi_aiims_ring_road_flyover_train_02.jpg,Delhi,AIIMS Ring Road Flyover,28.5672,77.21,Mapillary_Sample,train
+delhi_aiims_ring_road_flyover_train_03.jpg,Delhi,AIIMS Ring Road Flyover,28.5672,77.21,Mapillary_Sample,train
+delhi_aiims_ring_road_flyover_train_04.jpg,Delhi,AIIMS Ring Road Flyover,28.5672,77.21,Mapillary_Sample,train
+delhi_aiims_ring_road_flyover_val_01.jpg,Delhi,AIIMS Ring Road Flyover,28.5672,77.21,Mapillary_Sample,val
+delhi_aiims_ring_road_flyover_test_01.jpg,Delhi,AIIMS Ring Road Flyover,28.5672,77.21,Mapillary_Sample,test
+delhi_connaught_place_radial_train_01.jpg,Delhi,Connaught Place Radial,28.6315,77.2167,OSV-5M_Sample,train
+delhi_connaught_place_radial_train_02.jpg,Delhi,Connaught Place Radial,28.6315,77.2167,OSV-5M_Sample,train
+delhi_connaught_place_radial_train_03.jpg,Delhi,Connaught Place Radial,28.6315,77.2167,OSV-5M_Sample,train
+delhi_connaught_place_radial_train_04.jpg,Delhi,Connaught Place Radial,28.6315,77.2167,OSV-5M_Sample,train
+delhi_connaught_place_radial_val_01.jpg,Delhi,Connaught Place Radial,28.6315,77.2167,OSV-5M_Sample,val
+delhi_connaught_place_radial_test_01.jpg,Delhi,Connaught Place Radial,28.6315,77.2167,OSV-5M_Sample,test
+delhi_dnd_flyway_toll_train_01.jpg,Delhi,DND Flyway Toll,28.583,77.289,Mapillary_Sample,train
+delhi_dnd_flyway_toll_train_02.jpg,Delhi,DND Flyway Toll,28.583,77.289,Mapillary_Sample,train
+delhi_dnd_flyway_toll_train_03.jpg,Delhi,DND Flyway Toll,28.583,77.289,Mapillary_Sample,train
+delhi_dnd_flyway_toll_train_04.jpg,Delhi,DND Flyway Toll,28.583,77.289,Mapillary_Sample,train
+delhi_dnd_flyway_toll_val_01.jpg,Delhi,DND Flyway Toll,28.583,77.289,Mapillary_Sample,val
+delhi_dnd_flyway_toll_test_01.jpg,Delhi,DND Flyway Toll,28.583,77.289,Mapillary_Sample,test
+tokyo_shibuya_crossing_train_01.jpg,Tokyo,Shibuya Crossing,35.6595,139.7004,GoogleLandmarks_Sample,train
+tokyo_shibuya_crossing_train_02.jpg,Tokyo,Shibuya Crossing,35.6595,139.7004,GoogleLandmarks_Sample,train
+tokyo_shibuya_crossing_train_03.jpg,Tokyo,Shibuya Crossing,35.6595,139.7004,GoogleLandmarks_Sample,train
+tokyo_shibuya_crossing_train_04.jpg,Tokyo,Shibuya Crossing,35.6595,139.7004,GoogleLandmarks_Sample,train
+tokyo_shibuya_crossing_val_01.jpg,Tokyo,Shibuya Crossing,35.6595,139.7004,GoogleLandmarks_Sample,val
+tokyo_shibuya_crossing_test_01.jpg,Tokyo,Shibuya Crossing,35.6595,139.7004,GoogleLandmarks_Sample,test
+tokyo_shuto_expressway_c1_train_01.jpg,Tokyo,Shuto Expressway C1,35.6812,139.7671,Mapillary_Sample,train
+tokyo_shuto_expressway_c1_train_02.jpg,Tokyo,Shuto Expressway C1,35.6812,139.7671,Mapillary_Sample,train
+tokyo_shuto_expressway_c1_train_03.jpg,Tokyo,Shuto Expressway C1,35.6812,139.7671,Mapillary_Sample,train
+tokyo_shuto_expressway_c1_train_04.jpg,Tokyo,Shuto Expressway C1,35.6812,139.7671,Mapillary_Sample,train
+tokyo_shuto_expressway_c1_val_01.jpg,Tokyo,Shuto Expressway C1,35.6812,139.7671,Mapillary_Sample,val
+tokyo_shuto_expressway_c1_test_01.jpg,Tokyo,Shuto Expressway C1,35.6812,139.7671,Mapillary_Sample,test
+london_trafalgar_square_train_01.jpg,London,Trafalgar Square,51.508,-0.1281,GoogleLandmarks_Sample,train
+london_trafalgar_square_train_02.jpg,London,Trafalgar Square,51.508,-0.1281,GoogleLandmarks_Sample,train
+london_trafalgar_square_train_03.jpg,London,Trafalgar Square,51.508,-0.1281,GoogleLandmarks_Sample,train
+london_trafalgar_square_train_04.jpg,London,Trafalgar Square,51.508,-0.1281,GoogleLandmarks_Sample,train
+london_trafalgar_square_val_01.jpg,London,Trafalgar Square,51.508,-0.1281,GoogleLandmarks_Sample,val
+london_trafalgar_square_test_01.jpg,London,Trafalgar Square,51.508,-0.1281,GoogleLandmarks_Sample,test
+london_tower_bridge_approach_train_01.jpg,London,Tower Bridge Approach,51.5055,-0.0754,Mapillary_Sample,train
+london_tower_bridge_approach_train_02.jpg,London,Tower Bridge Approach,51.5055,-0.0754,Mapillary_Sample,train
+london_tower_bridge_approach_train_03.jpg,London,Tower Bridge Approach,51.5055,-0.0754,Mapillary_Sample,train
+london_tower_bridge_approach_train_04.jpg,London,Tower Bridge Approach,51.5055,-0.0754,Mapillary_Sample,train
+london_tower_bridge_approach_val_01.jpg,London,Tower Bridge Approach,51.5055,-0.0754,Mapillary_Sample,val
+london_tower_bridge_approach_test_01.jpg,London,Tower Bridge Approach,51.5055,-0.0754,Mapillary_Sample,test
+new york_times_square_broadway_train_01.jpg,New York,Times Square Broadway,40.758,-73.9855,GoogleLandmarks_Sample,train
+new york_times_square_broadway_train_02.jpg,New York,Times Square Broadway,40.758,-73.9855,GoogleLandmarks_Sample,train
+new york_times_square_broadway_train_03.jpg,New York,Times Square Broadway,40.758,-73.9855,GoogleLandmarks_Sample,train
+new york_times_square_broadway_train_04.jpg,New York,Times Square Broadway,40.758,-73.9855,GoogleLandmarks_Sample,train
+new york_times_square_broadway_val_01.jpg,New York,Times Square Broadway,40.758,-73.9855,GoogleLandmarks_Sample,val
+new york_times_square_broadway_test_01.jpg,New York,Times Square Broadway,40.758,-73.9855,GoogleLandmarks_Sample,test
+new york_fdr_drive_midtown_train_01.jpg,New York,FDR Drive Midtown,40.7484,-73.968,Mapillary_Sample,train
+new york_fdr_drive_midtown_train_02.jpg,New York,FDR Drive Midtown,40.7484,-73.968,Mapillary_Sample,train
+new york_fdr_drive_midtown_train_03.jpg,New York,FDR Drive Midtown,40.7484,-73.968,Mapillary_Sample,train
+new york_fdr_drive_midtown_train_04.jpg,New York,FDR Drive Midtown,40.7484,-73.968,Mapillary_Sample,train
+new york_fdr_drive_midtown_val_01.jpg,New York,FDR Drive Midtown,40.7484,-73.968,Mapillary_Sample,val
+new york_fdr_drive_midtown_test_01.jpg,New York,FDR Drive Midtown,40.7484,-73.968,Mapillary_Sample,test
+paris_champs-elysees_train_01.jpg,Paris,Champs-Elysees,48.8698,2.3075,GoogleLandmarks_Sample,train
+paris_champs-elysees_train_02.jpg,Paris,Champs-Elysees,48.8698,2.3075,GoogleLandmarks_Sample,train
+paris_champs-elysees_train_03.jpg,Paris,Champs-Elysees,48.8698,2.3075,GoogleLandmarks_Sample,train
+paris_champs-elysees_train_04.jpg,Paris,Champs-Elysees,48.8698,2.3075,GoogleLandmarks_Sample,train
+paris_champs-elysees_val_01.jpg,Paris,Champs-Elysees,48.8698,2.3075,GoogleLandmarks_Sample,val
+paris_champs-elysees_test_01.jpg,Paris,Champs-Elysees,48.8698,2.3075,GoogleLandmarks_Sample,test
+paris_boulevard_peripherique_porte_maillot_train_01.jpg,Paris,Boulevard Peripherique Porte Maillot,48.8785,2.2825,Mapillary_Sample,train
+paris_boulevard_peripherique_porte_maillot_train_02.jpg,Paris,Boulevard Peripherique Porte Maillot,48.8785,2.2825,Mapillary_Sample,train
+paris_boulevard_peripherique_porte_maillot_train_03.jpg,Paris,Boulevard Peripherique Porte Maillot,48.8785,2.2825,Mapillary_Sample,train
+paris_boulevard_peripherique_porte_maillot_train_04.jpg,Paris,Boulevard Peripherique Porte Maillot,48.8785,2.2825,Mapillary_Sample,train
+paris_boulevard_peripherique_porte_maillot_val_01.jpg,Paris,Boulevard Peripherique Porte Maillot,48.8785,2.2825,Mapillary_Sample,val
+paris_boulevard_peripherique_porte_maillot_test_01.jpg,Paris,Boulevard Peripherique Porte Maillot,48.8785,2.2825,Mapillary_Sample,test

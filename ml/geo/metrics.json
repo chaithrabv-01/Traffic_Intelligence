@@ -1,0 +1,10 @@
+{
+  "n_train": 88,
+  "n_val": 22,
+  "top1_city_acc": 0.3182,
+  "median_error_km": 1732.54,
+  "within_1km": 0.0,
+  "within_25km": 0.3182,
+  "split": "val",
+  "model_architecture": "PyTorch Vision Feature Encoder (512-dim normalized)"
+}

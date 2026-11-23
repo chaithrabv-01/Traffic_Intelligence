@@ -1,0 +1,378 @@
+accident_id,timestamp,lat,lon,city,locality,hotspot_name,severity,collision_type,weather,road_condition,vehicles_involved,casualties
+ACC-00001,2025-11-24 03:01:00,12.918842,77.623454,Bengaluru,Central Silk Board,Silk Board Junction,4,skid,fog,dry,2,2
+ACC-00002,2025-02-22 21:47:00,12.921408,77.623215,Bengaluru,Central Silk Board,Silk Board Junction,4,t-bone,clear,dry,4,0
+ACC-00003,2025-04-22 07:32:00,12.921548,77.625719,Bengaluru,Central Silk Board,Silk Board Junction,3,t-bone,clear,dry,2,0
+ACC-00004,2025-11-29 22:34:00,12.918956,77.622641,Bengaluru,Central Silk Board,Silk Board Junction,3,pedestrian-collision,rain,wet,4,0
+ACC-00005,2025-10-29 08:51:00,12.918205,77.619017,Bengaluru,Central Silk Board,Silk Board Junction,3,rear-end,rain,wet,4,0
+ACC-00006,2025-06-24 08:09:00,12.916194,77.621268,Bengaluru,Central Silk Board,Silk Board Junction,4,side-swipe,fog,dry,1,0
+ACC-00007,2025-07-03 11:38:00,12.91533,77.620269,Bengaluru,Central Silk Board,Silk Board Junction,5,head-on,clear,dry,4,1
+ACC-00008,2025-07-13 02:35:00,12.917036,77.623969,Bengaluru,Central Silk Board,Silk Board Junction,3,head-on,fog,dry,2,0
+ACC-00009,2025-12-27 02:02:00,12.916239,77.624077,Bengaluru,Central Silk Board,Silk Board Junction,3,skid,rain,wet,3,0
+ACC-00010,2025-02-10 07:55:00,12.918539,77.622298,Bengaluru,Central Silk Board,Silk Board Junction,4,rear-end,cloudy,dry,3,1
+ACC-00011,2025-07-06 05:23:00,12.916096,77.628431,Bengaluru,Central Silk Board,Silk Board Junction,4,head-on,rain,wet,3,1
+ACC-00012,2025-12-16 20:04:00,12.914956,77.625856,Bengaluru,Central Silk Board,Silk Board Junction,3,t-bone,rain,wet,2,0
+ACC-00013,2025-03-25 14:24:00,12.918122,77.618901,Bengaluru,Central Silk Board,Silk Board Junction,3,head-on,rain,wet,3,0
+ACC-00014,2025-01-29 07:52:00,12.918092,77.625646,Bengaluru,Central Silk Board,Silk Board Junction,4,rear-end,fog,dry,4,0
+ACC-00015,2025-10-18 22:20:00,12.917311,77.623047,Bengaluru,Central Silk Board,Silk Board Junction,3,side-swipe,cloudy,dry,4,0
+ACC-00016,2025-11-26 14:09:00,12.9158,77.622648,Bengaluru,Central Silk Board,Silk Board Junction,5,head-on,rain,wet,2,1
+ACC-00017,2025-10-03 08:47:00,12.918459,77.619392,Bengaluru,Central Silk Board,Silk Board Junction,4,t-bone,cloudy,dry,4,0
+ACC-00018,2025-09-18 15:05:00,12.916637,77.622108,Bengaluru,Central Silk Board,Silk Board Junction,4,rear-end,clear,dry,2,1
+ACC-00019,2025-12-15 13:38:00,12.920177,77.626128,Bengaluru,Central Silk Board,Silk Board Junction,3,rear-end,cloudy,dry,4,0
+ACC-00020,2025-11-02 14:33:00,12.916827,77.624628,Bengaluru,Central Silk Board,Silk Board Junction,4,head-on,clear,dry,1,1
+ACC-00021,2025-10-02 08:49:00,12.916402,77.623336,Bengaluru,Central Silk Board,Silk Board Junction,3,skid,fog,dry,1,0
+ACC-00022,2025-05-31 13:10:00,12.914609,77.625831,Bengaluru,Central Silk Board,Silk Board Junction,5,pedestrian-collision,clear,dry,3,1
+ACC-00023,2025-04-02 16:58:00,12.91742,77.626309,Bengaluru,Central Silk Board,Silk Board Junction,4,rear-end,fog,dry,2,0
+ACC-00024,2025-10-04 16:58:00,12.915987,77.624703,Bengaluru,Central Silk Board,Silk Board Junction,5,rear-end,fog,dry,4,1
+ACC-00025,2025-06-07 07:03:00,12.91751,77.627712,Bengaluru,Central Silk Board,Silk Board Junction,2,side-swipe,clear,dry,1,0
+ACC-00026,2025-09-06 02:48:00,12.919655,77.624018,Bengaluru,Central Silk Board,Silk Board Junction,4,t-bone,rain,wet,2,1
+ACC-00027,2025-10-09 05:16:00,12.917829,77.618831,Bengaluru,Central Silk Board,Silk Board Junction,4,t-bone,cloudy,dry,2,1
+ACC-00028,2025-12-20 06:45:00,12.918493,77.627495,Bengaluru,Central Silk Board,Silk Board Junction,3,head-on,cloudy,dry,3,0
+ACC-00029,2025-08-13 16:28:00,12.915579,77.622546,Bengaluru,Central Silk Board,Silk Board Junction,4,rear-end,rain,wet,2,0
+ACC-00030,2025-10-29 17:14:00,12.918422,77.622476,Bengaluru,Central Silk Board,Silk Board Junction,4,t-bone,rain,wet,1,2
+ACC-00031,2025-01-31 07:04:00,12.917843,77.626222,Bengaluru,Central Silk Board,Silk Board Junction,3,rear-end,fog,dry,1,0
+ACC-00032,2025-09-21 07:17:00,12.916781,77.62282,Bengaluru,Central Silk Board,Silk Board Junction,3,skid,cloudy,dry,2,0
+ACC-00033,2025-10-04 04:46:00,12.91834,77.624453,Bengaluru,Central Silk Board,Silk Board Junction,4,t-bone,cloudy,dry,2,1
+ACC-00034,2025-07-28 06:06:00,12.917014,77.620262,Bengaluru,Central Silk Board,Silk Board Junction,4,rear-end,cloudy,dry,3,1
+ACC-00035,2025-08-28 23:03:00,12.916743,77.621794,Bengaluru,Central Silk Board,Silk Board Junction,4,skid,clear,dry,1,1
+ACC-00036,2025-06-23 03:15:00,12.91861,77.628515,Bengaluru,Central Silk Board,Silk Board Junction,4,side-swipe,rain,wet,4,0
+ACC-00037,2025-05-23 14:15:00,12.918244,77.623614,Bengaluru,Central Silk Board,Silk Board Junction,2,rear-end,cloudy,dry,1,0
+ACC-00038,2025-01-26 20:34:00,12.917534,77.623951,Bengaluru,Central Silk Board,Silk Board Junction,5,rear-end,clear,dry,2,1
+ACC-00039,2025-09-04 06:55:00,12.917119,77.624554,Bengaluru,Central Silk Board,Silk Board Junction,4,pedestrian-collision,clear,dry,2,1
+ACC-00040,2025-05-16 14:18:00,12.914678,77.626657,Bengaluru,Central Silk Board,Silk Board Junction,4,pedestrian-collision,cloudy,dry,2,0
+ACC-00041,2025-01-30 18:47:00,12.919578,77.621527,Bengaluru,Central Silk Board,Silk Board Junction,5,t-bone,clear,dry,3,2
+ACC-00042,2025-09-02 16:58:00,12.914095,77.625267,Bengaluru,Central Silk Board,Silk Board Junction,5,t-bone,rain,wet,1,1
+ACC-00043,2025-02-11 05:04:00,12.915124,77.622384,Bengaluru,Central Silk Board,Silk Board Junction,4,t-bone,clear,dry,2,1
+ACC-00044,2025-10-19 07:37:00,12.916341,77.619923,Bengaluru,Central Silk Board,Silk Board Junction,4,t-bone,clear,dry,1,1
+ACC-00045,2025-10-26 18:33:00,12.914944,77.624984,Bengaluru,Central Silk Board,Silk Board Junction,3,head-on,fog,dry,2,0
+ACC-00046,2025-12-09 22:20:00,12.921475,77.621842,Bengaluru,Central Silk Board,Silk Board Junction,4,side-swipe,fog,dry,4,2
+ACC-00047,2025-06-03 14:20:00,12.919634,77.620723,Bengaluru,Central Silk Board,Silk Board Junction,4,rear-end,clear,dry,4,1
+ACC-00048,2025-10-16 03:04:00,12.920868,77.619781,Bengaluru,Central Silk Board,Silk Board Junction,4,t-bone,rain,wet,3,1
+ACC-00049,2025-02-05 07:23:00,12.99938,77.676745,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,3,head-on,rain,wet,4,0
+ACC-00050,2025-10-06 22:19:00,12.994639,77.675966,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,t-bone,clear,dry,3,1
+ACC-00051,2025-02-23 04:16:00,12.999351,77.675439,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,rear-end,clear,dry,2,2
+ACC-00052,2025-04-18 22:21:00,12.999297,77.675279,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,side-swipe,fog,dry,4,0
+ACC-00053,2025-02-17 20:27:00,13.004197,77.675821,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,3,head-on,clear,dry,1,0
+ACC-00054,2025-06-20 04:40:00,13.00057,77.671476,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,head-on,rain,wet,4,1
+ACC-00055,2025-08-07 17:00:00,13.002076,77.671938,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,rear-end,clear,dry,2,1
+ACC-00056,2025-07-09 18:35:00,12.999838,77.676866,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,side-swipe,cloudy,dry,2,1
+ACC-00057,2025-01-21 11:13:00,12.997864,77.672139,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,3,skid,rain,wet,1,0
+ACC-00058,2025-07-01 17:56:00,12.996153,77.674169,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,pedestrian-collision,rain,wet,2,1
+ACC-00059,2025-04-01 13:01:00,12.99943,77.676882,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,side-swipe,fog,dry,4,1
+ACC-00060,2025-05-08 08:10:00,13.002961,77.673606,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,skid,clear,dry,4,1
+ACC-00061,2025-08-29 07:12:00,13.000477,77.671829,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,3,pedestrian-collision,fog,dry,3,0
+ACC-00062,2025-04-27 07:01:00,13.000047,77.67373,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,skid,rain,wet,4,0
+ACC-00063,2025-05-23 11:41:00,13.00002,77.674182,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,t-bone,cloudy,dry,3,1
+ACC-00064,2025-03-01 08:11:00,12.994055,77.67306,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,t-bone,fog,dry,1,1
+ACC-00065,2025-06-26 23:50:00,12.999242,77.670663,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,head-on,cloudy,dry,1,2
+ACC-00066,2025-04-08 08:02:00,12.999756,77.671748,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,skid,cloudy,dry,1,1
+ACC-00067,2025-10-03 21:46:00,12.998775,77.670971,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,skid,rain,wet,3,1
+ACC-00068,2025-12-07 10:39:00,13.000282,77.677649,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,head-on,clear,dry,3,1
+ACC-00069,2025-12-08 13:20:00,12.994467,77.671587,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,pedestrian-collision,fog,dry,2,2
+ACC-00070,2025-07-14 21:47:00,13.000141,77.675945,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,side-swipe,fog,dry,4,1
+ACC-00071,2025-01-01 09:18:00,13.000313,77.677807,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,side-swipe,cloudy,dry,3,1
+ACC-00072,2025-08-15 21:13:00,13.000554,77.673454,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,t-bone,cloudy,dry,2,1
+ACC-00073,2025-05-26 16:42:00,12.996282,77.67369,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,skid,fog,dry,1,1
+ACC-00074,2025-05-01 21:19:00,12.998846,77.681344,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,3,side-swipe,rain,wet,2,0
+ACC-00075,2025-01-13 01:15:00,13.000659,77.669562,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,pedestrian-collision,clear,dry,4,1
+ACC-00076,2025-11-19 18:12:00,13.001867,77.674593,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,3,skid,cloudy,dry,4,0
+ACC-00077,2025-07-24 07:09:00,12.996454,77.676439,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,skid,clear,dry,1,1
+ACC-00078,2025-04-23 05:51:00,12.999249,77.674537,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,skid,cloudy,dry,1,1
+ACC-00079,2025-03-04 14:08:00,13.005032,77.676302,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,3,pedestrian-collision,fog,dry,4,0
+ACC-00080,2025-11-10 23:57:00,12.999159,77.672415,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,t-bone,cloudy,dry,4,1
+ACC-00081,2025-09-01 14:16:00,12.996222,77.674056,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,side-swipe,fog,dry,4,1
+ACC-00082,2025-05-21 14:04:00,13.001197,77.670799,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,skid,fog,dry,2,1
+ACC-00083,2025-10-04 02:08:00,12.997175,77.67244,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,side-swipe,rain,wet,4,1
+ACC-00084,2025-12-28 06:04:00,12.999815,77.670617,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,pedestrian-collision,cloudy,dry,3,1
+ACC-00085,2025-08-01 01:13:00,13.004966,77.677497,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,3,pedestrian-collision,cloudy,dry,1,0
+ACC-00086,2025-10-22 12:30:00,12.997147,77.678201,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,rear-end,fog,dry,3,1
+ACC-00087,2025-08-03 17:47:00,12.999931,77.676724,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,3,skid,rain,wet,4,0
+ACC-00088,2025-04-23 08:27:00,12.998421,77.664676,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,3,pedestrian-collision,clear,dry,4,0
+ACC-00089,2025-06-22 21:43:00,12.997842,77.670657,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,5,pedestrian-collision,rain,wet,4,1
+ACC-00090,2025-11-15 17:01:00,12.99431,77.67308,Bengaluru,KR Puram Hanging Bridge,Tin Factory / KR Puram,4,pedestrian-collision,clear,dry,1,1
+ACC-00091,2025-03-11 14:11:00,13.039836,77.59298,Bengaluru,Hebbal Junction,Hebbal Flyover,4,rear-end,fog,dry,4,1
+ACC-00092,2025-06-17 10:48:00,13.035829,77.594252,Bengaluru,Hebbal Junction,Hebbal Flyover,4,pedestrian-collision,fog,dry,4,0
+ACC-00093,2025-08-29 00:47:00,13.036357,77.595319,Bengaluru,Hebbal Junction,Hebbal Flyover,4,t-bone,clear,dry,3,0
+ACC-00094,2025-11-30 01:48:00,13.034721,77.597318,Bengaluru,Hebbal Junction,Hebbal Flyover,4,rear-end,rain,wet,2,1
+ACC-00095,2025-11-15 04:15:00,13.040241,77.593534,Bengaluru,Hebbal Junction,Hebbal Flyover,5,side-swipe,cloudy,dry,1,1
+ACC-00096,2025-04-22 14:44:00,13.030334,77.596575,Bengaluru,Hebbal Junction,Hebbal Flyover,4,head-on,fog,dry,2,1
+ACC-00097,2025-02-28 05:19:00,13.036587,77.595256,Bengaluru,Hebbal Junction,Hebbal Flyover,3,rear-end,clear,dry,3,0
+ACC-00098,2025-10-22 21:58:00,13.03442,77.59535,Bengaluru,Hebbal Junction,Hebbal Flyover,4,pedestrian-collision,cloudy,dry,2,2
+ACC-00099,2025-11-18 07:06:00,13.0368,77.59506,Bengaluru,Hebbal Junction,Hebbal Flyover,4,skid,fog,dry,1,1
+ACC-00100,2025-10-17 01:22:00,13.03666,77.599276,Bengaluru,Hebbal Junction,Hebbal Flyover,4,t-bone,cloudy,dry,3,2
+ACC-00101,2025-06-24 00:54:00,13.033479,77.595431,Bengaluru,Hebbal Junction,Hebbal Flyover,4,pedestrian-collision,cloudy,dry,1,1
+ACC-00102,2025-07-05 20:57:00,13.037509,77.596941,Bengaluru,Hebbal Junction,Hebbal Flyover,4,pedestrian-collision,rain,wet,4,2
+ACC-00103,2025-11-30 08:39:00,13.039377,77.595344,Bengaluru,Hebbal Junction,Hebbal Flyover,4,t-bone,cloudy,dry,4,1
+ACC-00104,2025-10-31 08:20:00,13.035234,77.59639,Bengaluru,Hebbal Junction,Hebbal Flyover,4,side-swipe,clear,dry,3,1
+ACC-00105,2025-05-05 14:36:00,13.038111,77.599278,Bengaluru,Hebbal Junction,Hebbal Flyover,5,t-bone,cloudy,dry,3,1
+ACC-00106,2025-04-04 15:13:00,13.035859,77.598909,Bengaluru,Hebbal Junction,Hebbal Flyover,3,head-on,fog,dry,3,0
+ACC-00107,2025-05-24 19:44:00,13.036708,77.596636,Bengaluru,Hebbal Junction,Hebbal Flyover,4,head-on,clear,dry,2,2
+ACC-00108,2025-07-28 15:35:00,13.037466,77.594709,Bengaluru,Hebbal Junction,Hebbal Flyover,5,side-swipe,cloudy,dry,4,1
+ACC-00109,2025-01-09 02:18:00,13.032983,77.5936,Bengaluru,Hebbal Junction,Hebbal Flyover,4,side-swipe,cloudy,dry,2,2
+ACC-00110,2025-07-08 15:35:00,13.038017,77.598748,Bengaluru,Hebbal Junction,Hebbal Flyover,4,t-bone,fog,dry,4,1
+ACC-00111,2025-10-09 10:22:00,13.035766,77.594488,Bengaluru,Hebbal Junction,Hebbal Flyover,4,skid,cloudy,dry,3,0
+ACC-00112,2025-03-03 23:12:00,13.033904,77.59973,Bengaluru,Hebbal Junction,Hebbal Flyover,3,head-on,clear,dry,2,0
+ACC-00113,2025-04-09 06:47:00,13.033489,77.5961,Bengaluru,Hebbal Junction,Hebbal Flyover,4,pedestrian-collision,fog,dry,3,1
+ACC-00114,2025-04-10 09:14:00,13.034222,77.594698,Bengaluru,Hebbal Junction,Hebbal Flyover,4,head-on,rain,wet,3,2
+ACC-00115,2025-03-06 08:02:00,13.036486,77.595581,Bengaluru,Hebbal Junction,Hebbal Flyover,3,rear-end,fog,dry,2,0
+ACC-00116,2025-11-23 15:06:00,13.03645,77.592945,Bengaluru,Hebbal Junction,Hebbal Flyover,3,rear-end,fog,dry,4,0
+ACC-00117,2025-09-03 14:21:00,13.033788,77.596402,Bengaluru,Hebbal Junction,Hebbal Flyover,4,side-swipe,clear,dry,3,1
+ACC-00118,2025-09-02 03:52:00,13.039931,77.599401,Bengaluru,Hebbal Junction,Hebbal Flyover,3,rear-end,cloudy,dry,4,0
+ACC-00119,2025-02-07 18:40:00,13.035747,77.594193,Bengaluru,Hebbal Junction,Hebbal Flyover,4,skid,clear,dry,2,2
+ACC-00120,2025-06-05 02:15:00,13.034992,77.597904,Bengaluru,Hebbal Junction,Hebbal Flyover,3,rear-end,cloudy,dry,2,0
+ACC-00121,2025-09-25 12:28:00,13.037254,77.601292,Bengaluru,Hebbal Junction,Hebbal Flyover,4,pedestrian-collision,fog,dry,4,2
+ACC-00122,2025-01-31 19:47:00,13.036925,77.598932,Bengaluru,Hebbal Junction,Hebbal Flyover,3,rear-end,rain,wet,2,0
+ACC-00123,2025-05-16 21:05:00,13.036427,77.597035,Bengaluru,Hebbal Junction,Hebbal Flyover,4,side-swipe,rain,wet,2,1
+ACC-00124,2025-03-22 00:26:00,13.033636,77.597069,Bengaluru,Hebbal Junction,Hebbal Flyover,4,pedestrian-collision,cloudy,dry,3,1
+ACC-00125,2025-12-28 09:44:00,13.039863,77.599686,Bengaluru,Hebbal Junction,Hebbal Flyover,5,pedestrian-collision,clear,dry,2,1
+ACC-00126,2025-11-17 18:42:00,13.033651,77.599442,Bengaluru,Hebbal Junction,Hebbal Flyover,4,side-swipe,cloudy,dry,1,1
+ACC-00127,2025-11-28 04:58:00,13.041931,77.594737,Bengaluru,Hebbal Junction,Hebbal Flyover,3,head-on,rain,wet,1,0
+ACC-00128,2025-01-31 05:50:00,13.034122,77.591053,Bengaluru,Hebbal Junction,Hebbal Flyover,3,head-on,fog,dry,4,0
+ACC-00129,2025-03-05 14:44:00,13.033674,77.597421,Bengaluru,Hebbal Junction,Hebbal Flyover,4,head-on,cloudy,dry,3,1
+ACC-00130,2025-09-10 14:05:00,12.959528,77.703191,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,t-bone,clear,dry,4,0
+ACC-00131,2025-06-15 19:16:00,12.953423,77.702182,Bengaluru,Marathahalli ORR,Marathahalli Bridge,2,rear-end,clear,dry,2,0
+ACC-00132,2025-12-12 18:37:00,12.959429,77.703695,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,rear-end,fog,dry,1,0
+ACC-00133,2025-03-31 15:33:00,12.951631,77.704079,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,skid,cloudy,dry,3,0
+ACC-00134,2025-04-03 18:27:00,12.958123,77.697592,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,skid,cloudy,dry,1,0
+ACC-00135,2025-08-29 11:26:00,12.955412,77.701203,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,head-on,fog,dry,1,0
+ACC-00136,2025-03-24 10:26:00,12.95677,77.698751,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,skid,cloudy,dry,3,0
+ACC-00137,2025-12-06 12:52:00,12.955665,77.702232,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,t-bone,clear,dry,4,1
+ACC-00138,2025-06-15 03:49:00,12.952926,77.697725,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,pedestrian-collision,clear,dry,4,1
+ACC-00139,2025-04-07 16:23:00,12.956131,77.699453,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,t-bone,cloudy,dry,4,1
+ACC-00140,2025-04-15 08:35:00,12.955654,77.703694,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,side-swipe,fog,dry,4,0
+ACC-00141,2025-12-24 15:07:00,12.959934,77.704962,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,rear-end,rain,wet,2,0
+ACC-00142,2025-06-09 17:00:00,12.957537,77.70252,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,t-bone,cloudy,dry,1,0
+ACC-00143,2025-08-25 03:41:00,12.953277,77.702609,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,side-swipe,cloudy,dry,3,1
+ACC-00144,2025-05-20 13:53:00,12.951531,77.698497,Bengaluru,Marathahalli ORR,Marathahalli Bridge,2,pedestrian-collision,cloudy,dry,2,0
+ACC-00145,2025-08-22 17:09:00,12.954807,77.702679,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,pedestrian-collision,rain,wet,2,1
+ACC-00146,2025-05-22 13:21:00,12.955563,77.704683,Bengaluru,Marathahalli ORR,Marathahalli Bridge,2,t-bone,fog,dry,1,0
+ACC-00147,2025-05-25 23:19:00,12.951653,77.700978,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,t-bone,cloudy,dry,2,1
+ACC-00148,2025-09-05 11:21:00,12.955328,77.696552,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,t-bone,cloudy,dry,4,0
+ACC-00149,2025-06-14 06:44:00,12.95253,77.702573,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,side-swipe,cloudy,dry,2,1
+ACC-00150,2025-07-30 01:20:00,12.953332,77.699969,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,skid,cloudy,dry,4,0
+ACC-00151,2025-07-17 21:50:00,12.955262,77.703201,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,skid,rain,wet,4,0
+ACC-00152,2025-01-19 04:32:00,12.956509,77.699933,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,t-bone,fog,dry,1,0
+ACC-00153,2025-08-14 03:33:00,12.955165,77.698822,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,pedestrian-collision,clear,dry,2,0
+ACC-00154,2025-07-29 20:09:00,12.952765,77.705422,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,rear-end,cloudy,dry,3,0
+ACC-00155,2025-06-23 19:44:00,12.953861,77.701571,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,pedestrian-collision,clear,dry,3,0
+ACC-00156,2025-12-12 17:24:00,12.954914,77.702451,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,head-on,cloudy,dry,1,1
+ACC-00157,2025-05-01 20:43:00,12.954233,77.699833,Bengaluru,Marathahalli ORR,Marathahalli Bridge,3,head-on,rain,wet,1,0
+ACC-00158,2025-08-11 03:48:00,12.950336,77.697767,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,skid,clear,dry,4,1
+ACC-00159,2025-01-15 01:20:00,12.959019,77.700552,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,rear-end,fog,dry,3,0
+ACC-00160,2025-05-06 16:26:00,12.956085,77.707874,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,t-bone,rain,wet,2,2
+ACC-00161,2025-07-15 19:43:00,12.955119,77.698998,Bengaluru,Marathahalli ORR,Marathahalli Bridge,2,side-swipe,cloudy,dry,2,0
+ACC-00162,2025-04-29 14:40:00,12.955848,77.699436,Bengaluru,Marathahalli ORR,Marathahalli Bridge,2,head-on,cloudy,dry,3,0
+ACC-00163,2025-12-08 00:57:00,12.953978,77.698721,Bengaluru,Marathahalli ORR,Marathahalli Bridge,5,pedestrian-collision,fog,dry,2,1
+ACC-00164,2025-10-28 09:40:00,12.95734,77.701082,Bengaluru,Marathahalli ORR,Marathahalli Bridge,4,pedestrian-collision,fog,dry,4,1
+ACC-00165,2025-04-12 12:54:00,13.028701,77.538561,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,5,pedestrian-collision,clear,dry,2,1
+ACC-00166,2025-10-22 09:44:00,13.029901,77.538103,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,head-on,clear,dry,4,2
+ACC-00167,2025-12-18 23:03:00,13.026223,77.537205,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,5,t-bone,cloudy,dry,3,1
+ACC-00168,2025-04-28 19:51:00,13.033464,77.537164,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,head-on,rain,wet,2,1
+ACC-00169,2025-12-14 23:49:00,13.026808,77.539533,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,3,skid,rain,wet,1,0
+ACC-00170,2025-11-18 20:02:00,13.026254,77.540926,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,3,head-on,cloudy,dry,1,0
+ACC-00171,2025-10-24 11:46:00,13.029203,77.540669,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,side-swipe,clear,dry,3,1
+ACC-00172,2025-03-31 06:08:00,13.02614,77.5393,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,t-bone,fog,dry,3,1
+ACC-00173,2025-05-12 15:51:00,13.029802,77.538258,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,head-on,fog,dry,1,1
+ACC-00174,2025-02-08 04:48:00,13.030454,77.53646,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,side-swipe,cloudy,dry,3,1
+ACC-00175,2025-01-08 08:34:00,13.026777,77.542284,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,3,rear-end,cloudy,dry,3,0
+ACC-00176,2025-12-11 23:43:00,13.023807,77.536568,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,head-on,cloudy,dry,3,0
+ACC-00177,2025-08-30 00:39:00,13.029175,77.538449,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,t-bone,fog,dry,2,1
+ACC-00178,2025-11-22 14:58:00,13.02418,77.540628,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,3,skid,fog,dry,4,0
+ACC-00179,2025-03-01 04:02:00,13.026805,77.540923,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,3,rear-end,fog,dry,4,0
+ACC-00180,2025-03-01 03:15:00,13.0275,77.543416,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,3,t-bone,rain,wet,4,0
+ACC-00181,2025-08-21 11:42:00,13.030673,77.537863,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,skid,cloudy,dry,2,1
+ACC-00182,2025-12-02 03:53:00,13.032248,77.534374,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,3,pedestrian-collision,cloudy,dry,3,0
+ACC-00183,2025-01-17 22:23:00,13.03,77.540272,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,side-swipe,cloudy,dry,4,1
+ACC-00184,2025-07-05 03:43:00,13.02693,77.541025,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,head-on,fog,dry,1,0
+ACC-00185,2025-03-04 14:05:00,13.031536,77.541461,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,skid,rain,wet,1,1
+ACC-00186,2025-05-05 04:50:00,13.027429,77.539532,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,t-bone,rain,wet,1,1
+ACC-00187,2025-10-11 06:37:00,13.029526,77.539705,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,side-swipe,rain,wet,3,1
+ACC-00188,2025-11-02 00:17:00,13.033896,77.543065,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,side-swipe,rain,wet,3,1
+ACC-00189,2025-02-26 21:55:00,13.031623,77.539739,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,2,rear-end,rain,wet,1,0
+ACC-00190,2025-07-03 07:37:00,13.025879,77.535936,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,head-on,clear,dry,2,0
+ACC-00191,2025-08-04 16:07:00,13.028548,77.545159,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,skid,clear,dry,4,1
+ACC-00192,2025-07-05 16:37:00,13.02793,77.542956,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,2,rear-end,cloudy,dry,2,0
+ACC-00193,2025-11-11 01:46:00,13.029113,77.542804,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,3,skid,fog,dry,4,0
+ACC-00194,2025-11-26 00:03:00,13.031474,77.54168,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,pedestrian-collision,cloudy,dry,4,1
+ACC-00195,2025-09-09 22:58:00,13.030145,77.546704,Bengaluru,Yeshwanthpur-Tumkur Rd,Goraguntepalya Junction,4,pedestrian-collision,clear,dry,1,0
+ACC-00196,2025-02-03 04:17:00,12.846069,77.658592,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,t-bone,fog,dry,4,1
+ACC-00197,2025-09-29 09:29:00,12.848106,77.657204,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,t-bone,cloudy,dry,1,1
+ACC-00198,2025-02-28 20:41:00,12.843528,77.661876,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,t-bone,rain,wet,4,1
+ACC-00199,2025-04-27 13:21:00,12.848831,77.658415,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,pedestrian-collision,cloudy,dry,4,1
+ACC-00200,2025-06-10 13:20:00,12.841774,77.658645,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,skid,fog,dry,3,1
+ACC-00201,2025-12-18 15:04:00,12.847849,77.656972,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,5,rear-end,clear,dry,1,1
+ACC-00202,2025-07-10 04:35:00,12.849945,77.661647,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,5,rear-end,fog,dry,1,1
+ACC-00203,2025-12-07 13:55:00,12.842492,77.655844,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,3,skid,clear,dry,3,0
+ACC-00204,2025-11-04 09:22:00,12.850436,77.66249,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,rear-end,rain,wet,2,1
+ACC-00205,2025-04-25 03:22:00,12.84618,77.656261,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,5,t-bone,fog,dry,1,1
+ACC-00206,2025-10-21 07:51:00,12.845652,77.660583,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,5,pedestrian-collision,clear,dry,3,1
+ACC-00207,2025-12-26 09:58:00,12.846884,77.660984,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,head-on,fog,dry,1,0
+ACC-00208,2025-10-17 21:25:00,12.84685,77.666787,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,5,rear-end,rain,wet,1,2
+ACC-00209,2025-04-21 12:26:00,12.850776,77.658411,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,pedestrian-collision,fog,dry,2,2
+ACC-00210,2025-06-16 18:38:00,12.84476,77.660395,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,5,rear-end,clear,dry,2,2
+ACC-00211,2025-01-26 21:05:00,12.839276,77.665553,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,head-on,cloudy,dry,4,1
+ACC-00212,2025-08-15 13:17:00,12.843706,77.656658,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,3,side-swipe,clear,dry,3,0
+ACC-00213,2025-08-09 03:18:00,12.848081,77.660457,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,3,skid,cloudy,dry,3,0
+ACC-00214,2025-01-24 07:25:00,12.840667,77.659025,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,5,t-bone,clear,dry,1,0
+ACC-00215,2025-03-12 08:18:00,12.844291,77.654939,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,head-on,clear,dry,1,1
+ACC-00216,2025-08-09 05:08:00,12.844245,77.650761,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,pedestrian-collision,rain,wet,3,2
+ACC-00217,2025-01-22 13:01:00,12.844392,77.662637,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,5,pedestrian-collision,clear,dry,3,1
+ACC-00218,2025-10-21 12:45:00,12.849143,77.659259,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,3,skid,cloudy,dry,3,0
+ACC-00219,2025-02-28 12:01:00,12.854207,77.660407,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,head-on,rain,wet,4,1
+ACC-00220,2025-07-05 02:27:00,12.845116,77.660893,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,rear-end,rain,wet,4,1
+ACC-00221,2025-09-26 02:25:00,12.843192,77.658286,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,head-on,fog,dry,2,0
+ACC-00222,2025-02-09 16:40:00,12.843298,77.657705,Bengaluru,Hosur Road Elevated Toll,Electronic City Toll Gate,4,rear-end,rain,wet,3,2
+ACC-00223,2025-03-17 07:06:00,12.93389,77.602708,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,1,side-swipe,fog,dry,2,0
+ACC-00224,2025-03-30 19:09:00,12.936583,77.602192,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,2,skid,clear,dry,2,0
+ACC-00225,2025-11-18 15:29:00,12.933715,77.598957,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,2,t-bone,cloudy,dry,3,0
+ACC-00226,2025-11-18 10:09:00,12.932844,77.597479,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,4,pedestrian-collision,clear,dry,4,1
+ACC-00227,2025-06-05 08:37:00,12.936271,77.602243,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,4,rear-end,fog,dry,1,1
+ACC-00228,2025-01-20 01:23:00,12.932142,77.598651,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,3,head-on,clear,dry,1,0
+ACC-00229,2025-11-11 19:32:00,12.931956,77.601126,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,3,pedestrian-collision,cloudy,dry,1,0
+ACC-00230,2025-08-19 18:41:00,12.93365,77.601122,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,3,side-swipe,fog,dry,4,0
+ACC-00231,2025-09-14 04:03:00,12.933678,77.602019,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,2,pedestrian-collision,clear,dry,3,0
+ACC-00232,2026-01-01 02:32:00,12.935632,77.600886,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,3,skid,rain,wet,1,0
+ACC-00233,2025-05-07 22:28:00,12.935052,77.597198,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,4,pedestrian-collision,rain,wet,3,1
+ACC-00234,2025-07-18 13:49:00,12.93403,77.598655,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,4,head-on,clear,dry,3,0
+ACC-00235,2025-10-13 21:24:00,12.932991,77.596883,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,2,head-on,fog,dry,2,0
+ACC-00236,2025-06-20 02:37:00,12.935612,77.597139,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,4,skid,rain,wet,3,2
+ACC-00237,2025-12-24 21:25:00,12.930236,77.603093,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,3,side-swipe,clear,dry,3,0
+ACC-00238,2025-10-14 12:41:00,12.934207,77.59861,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,3,head-on,rain,wet,1,0
+ACC-00239,2025-11-27 21:27:00,12.934325,77.601907,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,3,t-bone,fog,dry,1,0
+ACC-00240,2025-07-05 09:11:00,12.934701,77.598973,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,3,side-swipe,fog,dry,4,0
+ACC-00241,2025-04-09 07:08:00,12.935016,77.59628,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,2,side-swipe,clear,dry,3,0
+ACC-00242,2025-02-21 16:49:00,12.935887,77.600042,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,3,t-bone,clear,dry,3,0
+ACC-00243,2025-11-13 04:38:00,12.934437,77.600395,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,3,pedestrian-collision,rain,wet,2,0
+ACC-00244,2025-04-03 22:49:00,12.932843,77.600092,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,2,t-bone,rain,wet,4,0
+ACC-00245,2025-01-23 13:23:00,12.935217,77.596295,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,4,skid,rain,wet,4,1
+ACC-00246,2025-08-18 07:34:00,12.935345,77.600212,Bengaluru,Dairy Circle,Dairy Circle / Bannerghatta Rd,4,side-swipe,fog,dry,4,1
+ACC-00247,2025-04-10 11:43:00,12.957797,77.543634,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,2,t-bone,cloudy,dry,4,0
+ACC-00248,2025-05-25 12:32:00,12.950729,77.5397,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,4,t-bone,cloudy,dry,2,1
+ACC-00249,2025-11-06 04:55:00,12.955042,77.539458,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,4,head-on,clear,dry,4,1
+ACC-00250,2025-10-11 03:45:00,12.951987,77.539732,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,3,t-bone,clear,dry,3,0
+ACC-00251,2025-02-12 05:17:00,12.951584,77.537956,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,3,pedestrian-collision,rain,wet,4,0
+ACC-00252,2025-02-16 07:52:00,12.956329,77.538921,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,5,pedestrian-collision,fog,dry,1,1
+ACC-00253,2025-07-22 16:23:00,12.954984,77.541644,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,3,side-swipe,cloudy,dry,1,0
+ACC-00254,2025-07-11 07:01:00,12.955481,77.539818,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,4,head-on,clear,dry,3,1
+ACC-00255,2025-03-12 01:18:00,12.959944,77.540969,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,4,pedestrian-collision,rain,wet,4,1
+ACC-00256,2025-01-03 02:01:00,12.952112,77.541116,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,5,head-on,rain,wet,2,1
+ACC-00257,2025-11-08 16:27:00,12.952295,77.54555,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,4,rear-end,fog,dry,2,0
+ACC-00258,2025-05-03 13:40:00,12.95245,77.542718,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,4,t-bone,cloudy,dry,1,1
+ACC-00259,2025-11-02 17:01:00,12.955292,77.537431,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,3,skid,rain,wet,2,0
+ACC-00260,2025-05-30 13:00:00,12.953206,77.541021,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,4,t-bone,fog,dry,2,1
+ACC-00261,2025-04-06 21:42:00,12.954226,77.537995,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,4,rear-end,fog,dry,1,1
+ACC-00262,2025-10-06 16:50:00,12.955265,77.542543,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,4,t-bone,clear,dry,4,1
+ACC-00263,2025-01-23 20:24:00,12.955801,77.542302,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,3,head-on,fog,dry,1,0
+ACC-00264,2025-07-02 02:22:00,12.949814,77.542231,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,4,side-swipe,clear,dry,3,1
+ACC-00265,2025-10-07 10:52:00,12.954452,77.538136,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,3,skid,rain,wet,4,0
+ACC-00266,2025-12-23 15:40:00,12.956328,77.541105,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,4,side-swipe,rain,wet,1,1
+ACC-00267,2025-08-23 01:18:00,12.953868,77.541271,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,4,side-swipe,clear,dry,2,1
+ACC-00268,2025-06-11 09:32:00,12.952561,77.541431,Bengaluru,Bapuji Nagar,Mysore Road Satellite Bus Station,3,pedestrian-collision,cloudy,dry,3,0
+ACC-00269,2025-01-19 20:12:00,12.983114,77.750827,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,3,head-on,fog,dry,1,0
+ACC-00270,2025-12-02 10:17:00,12.983003,77.754739,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,3,rear-end,fog,dry,4,0
+ACC-00271,2025-07-24 23:28:00,12.983733,77.750501,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,4,pedestrian-collision,fog,dry,2,1
+ACC-00272,2025-09-12 11:59:00,12.984691,77.75418,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,2,t-bone,fog,dry,1,0
+ACC-00273,2025-08-06 02:27:00,12.984868,77.753824,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,3,t-bone,rain,wet,3,0
+ACC-00274,2025-06-14 03:05:00,12.986864,77.750307,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,4,head-on,fog,dry,3,1
+ACC-00275,2025-08-07 05:44:00,12.989947,77.750693,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,3,pedestrian-collision,fog,dry,4,0
+ACC-00276,2025-01-22 23:55:00,12.987833,77.755549,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,3,head-on,cloudy,dry,3,0
+ACC-00277,2025-11-24 01:04:00,12.98315,77.750896,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,2,skid,cloudy,dry,3,0
+ACC-00278,2025-09-20 23:43:00,12.981903,77.74909,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,3,side-swipe,clear,dry,2,0
+ACC-00279,2025-11-08 21:50:00,12.984113,77.752186,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,4,pedestrian-collision,clear,dry,2,2
+ACC-00280,2025-07-07 11:24:00,12.981704,77.754061,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,3,t-bone,clear,dry,2,0
+ACC-00281,2025-12-14 14:23:00,12.984076,77.753287,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,2,head-on,cloudy,dry,1,0
+ACC-00282,2025-10-21 04:33:00,12.985156,77.752016,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,4,head-on,cloudy,dry,3,1
+ACC-00283,2025-05-08 03:01:00,12.984923,77.757738,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,3,skid,rain,wet,4,0
+ACC-00284,2025-09-23 12:58:00,12.982873,77.750042,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,3,t-bone,clear,dry,3,0
+ACC-00285,2025-05-14 22:28:00,12.982607,77.754573,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,4,side-swipe,fog,dry,4,0
+ACC-00286,2025-02-07 14:11:00,12.982773,77.749519,Bengaluru,Hope Farm Junction,Whitefield Hope Farm,4,skid,cloudy,dry,1,1
+ACC-00287,2025-06-13 21:22:00,19.118043,72.854299,Mumbai,Andheri East,Western Express Highway Andheri,4,skid,clear,dry,3,1
+ACC-00288,2025-03-22 22:45:00,19.115153,72.857043,Mumbai,Andheri East,Western Express Highway Andheri,5,skid,rain,wet,3,1
+ACC-00289,2025-03-04 06:50:00,19.117862,72.851237,Mumbai,Andheri East,Western Express Highway Andheri,4,side-swipe,rain,wet,4,2
+ACC-00290,2025-10-21 11:29:00,19.120703,72.854376,Mumbai,Andheri East,Western Express Highway Andheri,5,t-bone,rain,wet,1,1
+ACC-00291,2025-09-03 16:26:00,19.119169,72.850005,Mumbai,Andheri East,Western Express Highway Andheri,3,pedestrian-collision,clear,dry,2,0
+ACC-00292,2025-06-12 20:04:00,19.117507,72.852301,Mumbai,Andheri East,Western Express Highway Andheri,5,pedestrian-collision,cloudy,dry,3,2
+ACC-00293,2025-11-24 18:11:00,19.118147,72.853071,Mumbai,Andheri East,Western Express Highway Andheri,4,side-swipe,cloudy,dry,1,1
+ACC-00294,2025-09-23 04:19:00,19.123265,72.859981,Mumbai,Andheri East,Western Express Highway Andheri,3,side-swipe,rain,wet,3,0
+ACC-00295,2025-12-30 07:22:00,19.118232,72.855532,Mumbai,Andheri East,Western Express Highway Andheri,4,t-bone,fog,dry,1,2
+ACC-00296,2025-10-10 08:08:00,19.12524,72.854152,Mumbai,Andheri East,Western Express Highway Andheri,3,skid,fog,dry,1,0
+ACC-00297,2025-09-15 20:10:00,19.121472,72.855726,Mumbai,Andheri East,Western Express Highway Andheri,4,t-bone,rain,wet,2,1
+ACC-00298,2025-11-06 10:53:00,19.121222,72.8556,Mumbai,Andheri East,Western Express Highway Andheri,5,t-bone,clear,dry,1,2
+ACC-00299,2025-10-23 08:41:00,19.123846,72.854346,Mumbai,Andheri East,Western Express Highway Andheri,4,side-swipe,cloudy,dry,1,1
+ACC-00300,2025-11-18 17:18:00,19.12014,72.85602,Mumbai,Andheri East,Western Express Highway Andheri,3,skid,fog,dry,4,0
+ACC-00301,2025-05-06 21:25:00,19.120806,72.85122,Mumbai,Andheri East,Western Express Highway Andheri,4,head-on,cloudy,dry,1,1
+ACC-00302,2025-03-22 14:26:00,19.123535,72.852973,Mumbai,Andheri East,Western Express Highway Andheri,4,pedestrian-collision,cloudy,dry,2,0
+ACC-00303,2025-06-10 22:20:00,19.11562,72.854639,Mumbai,Andheri East,Western Express Highway Andheri,4,skid,fog,dry,4,1
+ACC-00304,2025-09-21 17:06:00,19.12619,72.851477,Mumbai,Andheri East,Western Express Highway Andheri,4,head-on,rain,wet,4,1
+ACC-00305,2025-05-07 04:06:00,19.120448,72.857132,Mumbai,Andheri East,Western Express Highway Andheri,4,rear-end,fog,dry,4,1
+ACC-00306,2025-08-03 07:55:00,19.120537,72.854224,Mumbai,Andheri East,Western Express Highway Andheri,4,side-swipe,fog,dry,3,0
+ACC-00307,2025-09-13 16:29:00,19.118361,72.852982,Mumbai,Andheri East,Western Express Highway Andheri,4,pedestrian-collision,fog,dry,4,1
+ACC-00308,2025-09-16 14:15:00,19.11662,72.852799,Mumbai,Andheri East,Western Express Highway Andheri,3,side-swipe,fog,dry,1,0
+ACC-00309,2025-01-26 09:31:00,19.123285,72.84783,Mumbai,Andheri East,Western Express Highway Andheri,3,t-bone,cloudy,dry,3,0
+ACC-00310,2025-10-02 00:54:00,19.120832,72.857097,Mumbai,Andheri East,Western Express Highway Andheri,4,rear-end,cloudy,dry,2,1
+ACC-00311,2025-07-07 12:23:00,19.118034,72.858043,Mumbai,Andheri East,Western Express Highway Andheri,3,rear-end,cloudy,dry,1,0
+ACC-00312,2025-10-19 17:12:00,28.560604,77.21132,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,head-on,fog,dry,1,1
+ACC-00313,2025-10-09 08:52:00,28.564136,77.212125,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,t-bone,clear,dry,2,1
+ACC-00314,2025-07-21 11:50:00,28.565508,77.206159,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,5,head-on,fog,dry,2,2
+ACC-00315,2025-07-25 16:02:00,28.569151,77.209702,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,5,rear-end,clear,dry,2,1
+ACC-00316,2025-08-31 16:29:00,28.56399,77.205423,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,3,side-swipe,rain,wet,3,0
+ACC-00317,2025-11-10 10:10:00,28.567063,77.21073,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,pedestrian-collision,fog,dry,3,1
+ACC-00318,2025-09-18 17:31:00,28.568256,77.206245,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,5,skid,fog,dry,4,1
+ACC-00319,2025-07-08 10:43:00,28.566954,77.213352,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,rear-end,cloudy,dry,3,1
+ACC-00320,2025-12-19 20:01:00,28.56857,77.211709,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,t-bone,cloudy,dry,3,1
+ACC-00321,2025-10-24 18:14:00,28.569128,77.213987,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,skid,clear,dry,4,2
+ACC-00322,2025-11-14 12:09:00,28.569327,77.209731,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,5,skid,rain,wet,1,1
+ACC-00323,2025-12-25 03:12:00,28.565171,77.215403,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,rear-end,cloudy,dry,3,1
+ACC-00324,2025-07-31 22:13:00,28.562908,77.210384,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,3,pedestrian-collision,cloudy,dry,1,0
+ACC-00325,2025-12-28 04:33:00,28.569722,77.208042,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,side-swipe,fog,dry,4,1
+ACC-00326,2025-06-10 05:29:00,28.561531,77.208643,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,2,t-bone,fog,dry,3,0
+ACC-00327,2025-12-13 23:43:00,28.562448,77.212281,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,skid,fog,dry,4,0
+ACC-00328,2025-05-23 17:19:00,28.568476,77.207099,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,side-swipe,fog,dry,3,1
+ACC-00329,2025-12-20 22:31:00,28.567189,77.206525,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,5,head-on,cloudy,dry,3,1
+ACC-00330,2025-05-21 09:07:00,28.569832,77.209337,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,t-bone,cloudy,dry,4,1
+ACC-00331,2025-03-16 09:02:00,28.567825,77.203875,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,head-on,clear,dry,3,1
+ACC-00332,2025-12-02 08:47:00,28.565154,77.206995,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,pedestrian-collision,rain,wet,2,1
+ACC-00333,2025-05-19 17:44:00,28.572593,77.211923,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,head-on,rain,wet,1,1
+ACC-00334,2025-10-28 07:15:00,28.568918,77.214198,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,5,rear-end,rain,wet,2,1
+ACC-00335,2025-06-19 22:30:00,28.567379,77.208059,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,rear-end,rain,wet,1,1
+ACC-00336,2025-03-22 13:41:00,28.56838,77.212686,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,4,pedestrian-collision,cloudy,dry,2,1
+ACC-00337,2025-05-28 10:18:00,28.570349,77.208394,Delhi,Ansari Nagar,AIIMS Ring Road Flyover,5,skid,clear,dry,1,1
+ACC-00338,2025-04-29 17:00:00,13.032964,77.707073,Bengaluru,Urban Roadway,Isolated Incident,1,rear-end,rain,dry,1,0
+ACC-00339,2025-01-19 12:00:00,13.041833,77.560989,Bengaluru,Urban Roadway,Isolated Incident,3,side-swipe,clear,dry,1,0
+ACC-00340,2025-06-02 18:00:00,13.008501,77.72426,Bengaluru,Urban Roadway,Isolated Incident,2,side-swipe,rain,dry,2,0
+ACC-00341,2025-03-10 16:00:00,12.984244,77.562419,Bengaluru,Urban Roadway,Isolated Incident,1,side-swipe,clear,dry,2,0
+ACC-00342,2025-11-28 08:00:00,13.029348,77.523099,Bengaluru,Urban Roadway,Isolated Incident,2,side-swipe,clear,dry,1,0
+ACC-00343,2025-11-09 20:00:00,13.061468,77.701938,Bengaluru,Urban Roadway,Isolated Incident,3,side-swipe,clear,dry,2,0
+ACC-00344,2025-12-09 03:00:00,12.933261,77.550935,Bengaluru,Urban Roadway,Isolated Incident,2,rear-end,clear,dry,2,0
+ACC-00345,2025-07-16 07:00:00,12.980412,77.578739,Bengaluru,Urban Roadway,Isolated Incident,2,side-swipe,clear,dry,2,0
+ACC-00346,2025-12-01 11:00:00,13.024698,77.533667,Bengaluru,Urban Roadway,Isolated Incident,1,side-swipe,rain,dry,1,0
+ACC-00347,2025-07-27 21:00:00,12.990454,77.716926,Bengaluru,Urban Roadway,Isolated Incident,3,side-swipe,clear,dry,2,0
+ACC-00348,2025-07-08 19:00:00,12.939753,77.730619,Bengaluru,Urban Roadway,Isolated Incident,2,rear-end,rain,dry,2,0
+ACC-00349,2025-08-01 22:00:00,12.998862,77.623582,Bengaluru,Urban Roadway,Isolated Incident,3,two-wheeler skid,clear,dry,1,0
+ACC-00350,2025-12-15 19:00:00,13.057164,77.538011,Bengaluru,Urban Roadway,Isolated Incident,2,two-wheeler skid,rain,dry,1,0
+ACC-00351,2025-10-16 03:00:00,12.911116,77.640483,Bengaluru,Urban Roadway,Isolated Incident,3,rear-end,clear,dry,1,0
+ACC-00352,2025-06-17 16:00:00,12.979531,77.669665,Bengaluru,Urban Roadway,Isolated Incident,3,two-wheeler skid,rain,dry,1,0
+ACC-00353,2025-09-19 14:00:00,13.045565,77.619755,Bengaluru,Urban Roadway,Isolated Incident,3,side-swipe,rain,dry,1,0
+ACC-00354,2025-10-14 14:00:00,13.021098,77.587797,Bengaluru,Urban Roadway,Isolated Incident,1,side-swipe,rain,dry,1,0
+ACC-00355,2025-04-22 18:00:00,12.913145,77.613213,Bengaluru,Urban Roadway,Isolated Incident,3,rear-end,clear,dry,1,0
+ACC-00356,2025-08-30 01:00:00,12.951676,77.559596,Bengaluru,Urban Roadway,Isolated Incident,1,two-wheeler skid,rain,dry,2,0
+ACC-00357,2025-07-15 14:00:00,13.056532,77.719489,Bengaluru,Urban Roadway,Isolated Incident,2,rear-end,clear,dry,2,0
+ACC-00358,2025-03-02 05:00:00,13.078712,77.606473,Bengaluru,Urban Roadway,Isolated Incident,1,two-wheeler skid,clear,dry,1,0
+ACC-00359,2025-01-12 09:00:00,12.983341,77.678201,Bengaluru,Urban Roadway,Isolated Incident,2,two-wheeler skid,rain,dry,1,0
+ACC-00360,2025-05-07 14:00:00,12.962309,77.580643,Bengaluru,Urban Roadway,Isolated Incident,3,rear-end,clear,dry,2,0
+ACC-00361,2025-11-11 00:00:00,12.94332,77.534804,Bengaluru,Urban Roadway,Isolated Incident,3,rear-end,rain,dry,1,0
+ACC-00362,2025-05-06 23:00:00,12.907963,77.616572,Bengaluru,Urban Roadway,Isolated Incident,3,rear-end,clear,dry,1,0
+ACC-00363,2025-09-15 09:00:00,12.942149,77.721607,Bengaluru,Urban Roadway,Isolated Incident,3,side-swipe,rain,dry,1,0
+ACC-00364,2025-06-04 04:00:00,13.077425,77.634675,Bengaluru,Urban Roadway,Isolated Incident,2,side-swipe,rain,dry,1,0
+ACC-00365,2025-10-13 18:00:00,13.058349,77.720547,Bengaluru,Urban Roadway,Isolated Incident,3,two-wheeler skid,rain,dry,2,0
+ACC-00366,2025-01-25 11:00:00,13.069486,77.667695,Bengaluru,Urban Roadway,Isolated Incident,3,side-swipe,rain,dry,2,0
+ACC-00367,2025-03-18 09:00:00,12.967763,77.685972,Bengaluru,Urban Roadway,Isolated Incident,2,rear-end,clear,dry,2,0
+ACC-00368,2025-12-29 04:00:00,13.04504,77.721243,Bengaluru,Urban Roadway,Isolated Incident,3,side-swipe,rain,dry,1,0
+ACC-00369,2025-07-18 07:00:00,12.945899,77.592658,Bengaluru,Urban Roadway,Isolated Incident,1,side-swipe,rain,dry,1,0
+ACC-00370,2025-10-02 23:00:00,13.049293,77.531338,Bengaluru,Urban Roadway,Isolated Incident,2,two-wheeler skid,clear,dry,1,0
+ACC-00371,2025-04-07 18:00:00,13.030375,77.642947,Bengaluru,Urban Roadway,Isolated Incident,2,rear-end,rain,dry,2,0
+ACC-00372,2025-01-08 06:00:00,13.068689,77.731657,Bengaluru,Urban Roadway,Isolated Incident,1,two-wheeler skid,rain,dry,1,0
+ACC-00373,2025-12-23 19:00:00,13.026678,77.607259,Bengaluru,Urban Roadway,Isolated Incident,1,two-wheeler skid,rain,dry,2,0
+ACC-00374,2025-07-14 14:00:00,12.996057,77.599037,Bengaluru,Urban Roadway,Isolated Incident,2,side-swipe,rain,dry,2,0
+ACC-00375,2025-02-20 23:00:00,12.984508,77.704741,Bengaluru,Urban Roadway,Isolated Incident,1,side-swipe,rain,dry,2,0
+ACC-00376,2025-01-24 18:00:00,13.055535,77.683076,Bengaluru,Urban Roadway,Isolated Incident,1,side-swipe,rain,dry,2,0
+ACC-00377,2025-03-20 06:00:00,12.959376,77.603565,Bengaluru,Urban Roadway,Isolated Incident,1,side-swipe,rain,dry,2,0

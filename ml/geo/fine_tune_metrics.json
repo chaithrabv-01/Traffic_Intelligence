@@ -1,0 +1,14 @@
+{
+  "epochs": 5,
+  "final_train_loss": 0.0869,
+  "validation_triplet_accuracy": 1.0,
+  "loss_history": [
+    0.2312,
+    0.1587,
+    0.1034,
+    0.1253,
+    0.0869
+  ],
+  "objective": "TripletMarginLoss (margin=0.3)",
+  "output_embedding_dim": 256
+}

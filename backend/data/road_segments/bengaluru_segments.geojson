@@ -1,0 +1,264 @@
+{
+  "type": "FeatureCollection",
+  "name": "bengaluru_road_risk_segments",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "segment_id": "BLR-SEG-01",
+        "road_name": "Outer Ring Road (Silk Board to Bellandur)",
+        "road_type": "Expressway / Arterial",
+        "lanes": 6,
+        "speed_limit_kmh": 60,
+        "historical_accidents_yr": 74,
+        "mean_daily_volume": 115000,
+        "risk_level": "critical",
+        "risk_score": 0.88
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.6238,
+            12.9176
+          ],
+          [
+            77.6412,
+            12.9234
+          ],
+          [
+            77.6621,
+            12.9288
+          ],
+          [
+            77.6784,
+            12.9341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "segment_id": "BLR-SEG-02",
+        "road_name": "Outer Ring Road (Bellandur to Marathahalli)",
+        "road_type": "Expressway / Arterial",
+        "lanes": 6,
+        "speed_limit_kmh": 60,
+        "historical_accidents_yr": 58,
+        "mean_daily_volume": 108000,
+        "risk_level": "high",
+        "risk_score": 0.76
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.6784,
+            12.9341
+          ],
+          [
+            77.6912,
+            12.9421
+          ],
+          [
+            77.7011,
+            12.9554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "segment_id": "BLR-SEG-03",
+        "road_name": "Old Madras Road (Indiranagar to KR Puram)",
+        "road_type": "Primary Arterial",
+        "lanes": 4,
+        "speed_limit_kmh": 50,
+        "historical_accidents_yr": 62,
+        "mean_daily_volume": 89000,
+        "risk_level": "critical",
+        "risk_score": 0.85
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.6387,
+            12.9784
+          ],
+          [
+            77.6534,
+            12.9882
+          ],
+          [
+            77.6744,
+            12.9986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "segment_id": "BLR-SEG-04",
+        "road_name": "Bellary Road (Hebbal to Yelahanka Bypass)",
+        "road_type": "National Highway / Airport Corridor",
+        "lanes": 6,
+        "speed_limit_kmh": 80,
+        "historical_accidents_yr": 54,
+        "mean_daily_volume": 94000,
+        "risk_level": "high",
+        "risk_score": 0.72
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.597,
+            13.0358
+          ],
+          [
+            77.5954,
+            13.0612
+          ],
+          [
+            77.5968,
+            13.0921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "segment_id": "BLR-SEG-05",
+        "road_name": "Hosur Road (Madiwala to Electronic City Elevated Toll)",
+        "road_type": "National Highway",
+        "lanes": 6,
+        "speed_limit_kmh": 70,
+        "historical_accidents_yr": 49,
+        "mean_daily_volume": 120000,
+        "risk_level": "high",
+        "risk_score": 0.74
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.6189,
+            12.9211
+          ],
+          [
+            77.6352,
+            12.8941
+          ],
+          [
+            77.6602,
+            12.8452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "segment_id": "BLR-SEG-06",
+        "road_name": "Tumkur Road (Goraguntepalya to Peenya Industrial Area)",
+        "road_type": "National Highway",
+        "lanes": 6,
+        "speed_limit_kmh": 60,
+        "historical_accidents_yr": 46,
+        "mean_daily_volume": 82000,
+        "risk_level": "high",
+        "risk_score": 0.71
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5408,
+            13.0285
+          ],
+          [
+            77.5254,
+            13.0331
+          ],
+          [
+            77.5082,
+            13.0365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "segment_id": "BLR-SEG-07",
+        "road_name": "Bannerghatta Road (Dairy Circle to Jayadeva)",
+        "road_type": "Secondary Arterial",
+        "lanes": 4,
+        "speed_limit_kmh": 40,
+        "historical_accidents_yr": 32,
+        "mean_daily_volume": 68000,
+        "risk_level": "moderate",
+        "risk_score": 0.52
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5997,
+            12.9344
+          ],
+          [
+            77.5982,
+            12.9214
+          ],
+          [
+            77.5965,
+            12.9112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "segment_id": "BLR-SEG-08",
+        "road_name": "MG Road & Cubbon Park Perimeter",
+        "road_type": "Urban CBD",
+        "lanes": 4,
+        "speed_limit_kmh": 40,
+        "historical_accidents_yr": 14,
+        "mean_daily_volume": 55000,
+        "risk_level": "low",
+        "risk_score": 0.28
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5912,
+            12.9734
+          ],
+          [
+            77.6041,
+            12.9752
+          ],
+          [
+            77.6185,
+            12.9748
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "model_type": "Hybrid (PyTorch 2-layer LSTM + XGBoost Regressor/Classifier)",
+  "classes": [
+    "Low",
+    "Moderate",
+    "High",
+    "Critical"
+  ],
+  "n_train": 750,
+  "n_test": 250,
+  "macro_precision": 0.9961,
+  "macro_recall": 0.9947,
+  "macro_f1": 0.9953,
+  "lstm_test_accuracy": 0.856,
+  "xgboost_test_accuracy": 0.996,
+  "false_positive_rate_hazard": 0.0,
+  "mean_prediction_lead_time_sec": 1.42,
+  "confusion_matrix": [
+    [
+      109,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      63,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      46,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      31
+    ]
+  ],
+  "causality_guarantee": "Strict chronological past-only observation window (t <= t_eval)"
+}

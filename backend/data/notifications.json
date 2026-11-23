@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1795331918869,
+    "title": "Traffic Alert: Congestion (HIGH)",
+    "body": "Congestion detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1533,
+      "type": "congestion"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918837,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1532,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918803,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1531,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918764,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1530,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918727,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1529,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918689,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1528,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918654,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1527,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918617,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1526,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918581,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1525,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918545,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1524,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918511,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1523,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918475,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1522,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918446,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1521,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918413,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1520,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918380,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1519,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918347,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1518,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918311,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1517,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918276,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1516,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918239,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1515,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918201,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1514,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918166,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1513,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918131,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1512,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918096,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1511,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918061,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1510,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331918026,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1509,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:38"
+  },
+  {
+    "id": 1795331917990,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1508,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917957,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1507,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917925,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1506,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917892,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1505,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917861,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1504,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917833,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1503,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917799,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1502,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917765,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1501,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917726,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1500,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917693,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1499,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917658,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1498,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917620,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1497,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917586,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1496,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917551,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1495,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917517,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1494,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917481,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1493,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917452,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1492,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917422,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1491,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917388,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1490,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917357,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1489,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917320,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1488,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917288,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1487,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917255,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1486,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917217,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1485,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917178,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1484,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917135,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1483,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917092,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1482,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917053,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1481,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331917013,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1480,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:37"
+  },
+  {
+    "id": 1795331916972,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1479,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916932,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1478,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916894,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1477,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916856,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1476,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916819,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1475,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916781,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1474,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916741,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1473,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916701,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1472,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916665,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1471,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916625,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1470,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916585,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1469,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916546,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1468,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916508,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1467,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916468,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1466,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916431,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1465,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916394,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1464,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916357,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1463,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916319,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1462,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916282,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1461,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916242,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1460,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916201,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1459,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916163,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1458,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916129,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1457,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916092,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1456,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916054,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1455,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331916018,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1454,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:36"
+  },
+  {
+    "id": 1795331915982,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1453,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915945,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1452,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915906,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1451,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915868,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1450,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915831,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1449,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915794,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1448,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915757,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1447,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915717,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1446,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915680,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1445,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915642,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1444,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915604,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1443,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915564,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1442,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915526,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1441,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915487,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1440,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915448,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1439,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915408,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1438,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915372,
+    "title": "Traffic Alert: Predicted Collision Risk (HIGH)",
+    "body": "Predicted collision risk detected (Severity: high).",
+    "severity": "high",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1437,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915333,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1436,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915295,
+    "title": "Traffic Alert: Predicted Collision Risk (CRITICAL)",
+    "body": "Predicted collision risk detected (Severity: critical).",
+    "severity": "critical",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1435,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  },
+  {
+    "id": 1795331915256,
+    "title": "Traffic Alert: Predicted Collision Risk (MODERATE)",
+    "body": "Predicted collision risk detected (Severity: moderate).",
+    "severity": "moderate",
+    "audience": [
+      "police"
+    ],
+    "data": {
+      "event_id": 1434,
+      "type": "predicted_collision_risk"
+    },
+    "created_at": "2026-11-22 07:18:35"
+  }
+]

@@ -1,0 +1,6 @@
+backend/.env
+backend/data/uploads/ 
+backend/data/frames/
+backend/data/app.db
+node_modules/
+ml/geo/index.*
